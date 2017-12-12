@@ -1,6 +1,7 @@
 {
   "name": "MeanStackSample",
   "description": "Test Build for Practicing Mean Stack implementation",
+
   "scripts": {
   },
   "env": {
